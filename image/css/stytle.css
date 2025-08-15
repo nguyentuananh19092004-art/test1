@@ -1,0 +1,16 @@
+.title {
+            color: blue;
+            font-weight: bold; 
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+        }
+
+        .p2 a {
+            text-decoration: none;
+            font-style: italic;
+            color: #FFCD44;
+        }
+
+        .p2>div>a {
+            color: red;
+        }
